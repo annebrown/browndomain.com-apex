@@ -37,5 +37,13 @@ Deleted GitHub repo:
 https://github.com/annebrown/docs-priv.git
 ```
 
-# Next: Scaffold Repo with Angular Framework
+# Next Steps
+
+## Learn Angular Framework
+
+Learn how to design an Angular webap using bashbrain.dB as a prototype.
+
+## Scaffold Docs Repo with Angular Framework
+
+Move priv docs to separate repo?  Not necessary if Vercel will support continuous <?>updates</?> a private repo to a public webpage.
 
