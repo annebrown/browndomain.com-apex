@@ -37,7 +37,11 @@ Deleted GitHub repo:
 https://github.com/annebrown/docs-priv.git
 ```
 
-# Next Steps
+## Domain Assignment
+
+Added ```CNAME``` rec for docs.browndomain.com to registrar's DNS Zone
+
+## Added index.html to test deployment and domain assignment.
 
 ## Learn Angular Framework
 
